@@ -5,9 +5,8 @@ Projeto básico para entendimento de lista e divisão e armazenamento de valores
 
 O código é dividido em três opções:
 
-1° Adicionar um período de análise (ex 1 à 10) e escolher a opção de trazer apenas números pares ou ímpares dentro do período 
+1° Adicionar um período de análise (ex 1 à 10) e escolher a opção de trazer apenas números pares ou ímpares dentro do período adicionado
 
-adicionado
 2° Verificar o histórico de informações da opção 1
 
 3° Sair do código
