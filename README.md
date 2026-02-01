@@ -1,4 +1,4 @@
-# Projeto
+# Projeto de Estudo Python
 
 ## Descrição
 Projeto básico para entendimento de lista e divisão e armazenamento de valores no input.
