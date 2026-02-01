@@ -1,7 +1,7 @@
 # Projeto de Estudo Python
 
 ## Descrição
-Projeto básico para entendimento de lista e divisão e armazenamento de valores no input.
+Projeto básico mas importante para ajudar a entender como funciona lista armazenamento de dados em python. Cada linha, compreendida, pode ser utilizada em grandes projetos e são de fácil leitura. Projeto desenvolvido em inglês para ser entendido globalmente.
 
 O código é dividido em três opções:
 
@@ -19,6 +19,3 @@ O projeto foi desesnvolvido para estudo de funções e composições.
 
 ## Principais objetivos tratados
 Controle de informações dentro do "input", armazenamento e exibição de dados anteriores e loop para teste do histórico.
-Projeto desenvolvido em inglês para ser entendido globalmente.
-
-É um projeto básico mais importante para ajudar a entender como funciona essas informações. Cada linha, compreendida, pode ser utilizada em grandes projetos e são de fácil leitura.
