@@ -15,7 +15,10 @@ O código é dividido em três opções:
 Projeto básico, sendo necessário apenas a instalação da linguagem Python.
 
 ## Intúito
-O projeto foi desesnvolvido para estudo de funções e composições. Principaiss objetivos tratados foram o controle de informações dentro do "input", armazenamento e exibição de dados anteriores e loop para teste do histórico.
+O projeto foi desesnvolvido para estudo de funções e composições. 
+
+## Principais objetivos tratados
+Controle de informações dentro do "input", armazenamento e exibição de dados anteriores e loop para teste do histórico.
 Projeto desenvolvido em inglês para ser entendido globalmente.
 
 É um projeto básico mais importante para ajudar a entender como funciona essas informações. Cada linha, compreendida, pode ser utilizada em grandes projetos e são de fácil leitura.
